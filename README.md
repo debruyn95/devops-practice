@@ -1,19 +1,61 @@
-# DevOps Practice Project
+##  System Monitoring Script
 
-## 🚀 Overview
-This project is part of my journey to becoming a DevOps / Cloud Engineer.
+This project includes a Python-based system monitoring tool that tracks:
 
-## 🛠️ Technologies
-- Linux
-- Git & GitHub
-- Python (coming next)
-- Docker (coming next)
+- CPU usage
+- Memory usage
+- Disk usage
 
-## 📌 Goals
-- Learn version control
-- Build automation scripts
-- Containerise applications
-- Deploy to cloud
+### ▶️ How to run
 
-## 👨‍💻 Author
-De Bruyn Grobler
+```bash
+pip install psutil
+python monitor.py
+
+---
+
+#  Why This Matters (Career Level)
+
+Now you can say:
+
+> “I built a Python system monitoring tool that tracks real-time CPU, memory, and disk usage.”
+
+ That sounds like:
+- Practical  
+- Technical  
+- Job-relevant  
+
+---
+
+#  What Comes Next (This is where it gets serious)
+
+Now we level up:
+
+##  NEXT: Docker (Your First Real DevOps Tool)
+
+We’re going to:
+- Put this script into a container  
+- Run it anywhere  
+- Make it look like real infrastructure  
+
+---
+
+# Where You Are Right Now
+
+You have:
+- Git  
+- GitHub 
+- VS Code 
+- Python   
+- Working project 
+
+ You are officially **building like a junior DevOps engineer**
+
+---
+
+##  Your move:
+1. Run:
+```bash
+git add .
+git commit -m "Added real system monitoring with psutil"
+git push
